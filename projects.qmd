@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+# Statistical Analysis Project
+
+### Project Summary
+
+This project presents an end-to-end data analysis performed in R, focusing on exploratory data analysis, statistical modeling, and data visualization.
+
+### Key Objectives & Findings
+
+- **Data Wrangling:** Processed and cleaned datasets using `tidyverse`.
+- **Statistical Modeling:** Conducted regression analysis and hypothesis testing to evaluate key variables.
+- **Visualizations:** Created custom data charts using `ggplot2`.
+
+------------------------------------------------------------------------
+
+[📄 Open / Download Full PDF Report](Statistical-Analysis.pdf){.btn .btn-primary .btn-lg role="button" target="_blank"}

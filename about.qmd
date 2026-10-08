@@ -1,0 +1,25 @@
+---
+title: "About"
+image: myphoto.png
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: GitHub
+      href: https://github.com
+    - icon: envelope
+      text: Email
+      href: mailto:callymwanja@gmail.com
+---
+
+Hello! I am a passionate statistician with experience in statistical modeling, data visualization, and reporting using R.
+
+**Education & skills**
+
+**Skills**: R, Quarto, Excel, STATA, Statistical Analysis, Data Visualization among others.
+
+**Education**: BSc Statistics, Kirinyaga University

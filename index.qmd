@@ -1,0 +1,28 @@
+---
+title: "My Portfolio"
+---
+
+# Hello, I'm Cally Mwanja 👋
+
+I am a **Statistician & Data Analyst** specializing in statistical modeling, quantitative analysis, and interactive data reporting using R.
+
+This website showcases my analytical projects, data visualizations, and research work.
+
+------------------------------------------------------------------------
+
+## What You'll Find Here
+
+- [**Projects**](project.qmd): Explore my full statistical analyses, code, reports, and interactive dashboards.
+
+------------------------------------------------------------------------
+
+## Core Competencies
+
+- **Statistical Analysis & Modeling:** Regression Analysis, Hypothesis Testing, Applied Statistics
+- **Data Tools & Software:** R, Quarto, RStudio, Git/GitHub
+
+------------------------------------------------------------------------
+
+### Get in Touch
+
+Feel free to browse my work or reach out directly via [Email](mailto:callymwanja@gmail.com)!
